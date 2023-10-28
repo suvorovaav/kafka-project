@@ -1,4 +1,4 @@
-rootProject.name = 'KafkaProject'
+rootProject.name = 'kafka-project'
 include 'consumer'
 include 'producer'
 
